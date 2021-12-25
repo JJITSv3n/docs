@@ -16,6 +16,7 @@ versions:
 topics:
   - Permissions
   - Accounts
+  - Enterprise 
 shortTitle: Access permissions
 ---
 
